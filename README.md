@@ -36,8 +36,7 @@ sources_1/
     vga_pong.v              → Haupt-VGA-Rendering für Spielfläche
     simplevga_top.v         → Top-Level-Modul des Projekts
 
-    *.mem                   → Bitmap-Daten für Ziffern & Labels
-                            (digit_0.mem ... digit_9.mem, colon, labels)
+  
 
 utils_1/
 imports/
