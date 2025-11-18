@@ -47,7 +47,7 @@ synth_1/
 
 Zynq-7010 SoC Board (z. B. Zybo, Cora, Arty Z7-10)
 
-Vivado (getestet mit Version XX.X)
+Vivado 
 
 VGA-Monitor
 
@@ -92,7 +92,3 @@ RGB-Farbwerte aus UI-Overlay und Spiellogik
 📘 Hinweise & Erweiterungen
 
 Alle Spielfunktionen laufen in dedizierter Logik ohne Software.
-
-Die .mem-Dateien definieren Pixelmaps für Ziffern und Labels.
-
-Erweiterbar um Sound, Animationen, Menü oder SPI-Controller für externe Eingabegeräte.
